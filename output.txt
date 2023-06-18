@@ -1,0 +1,8 @@
+Making hex codes...
+[             ]-------------
+Comparing hex codes...
+[     ]-----
+The search took 0.008328676223754883!
+
+These files were the same:
+[('noe.txt', 'kode2.py')]

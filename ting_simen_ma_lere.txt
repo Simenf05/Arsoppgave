@@ -1,0 +1,6 @@
+ting simen må lære seg en gang
+
+- tensorflow 
+- django 
+- socket-server og requests
+- react (js)
